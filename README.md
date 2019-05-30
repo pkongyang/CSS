@@ -1,1 +1,1 @@
-# Practicing CSS
+# Practicing HTML & CSS
